@@ -8,4 +8,6 @@ func main() {
 	fmt.Println("test feature/2")
 
 	fmt.Println("again")
+
+	fmt.Println("again")
 }
