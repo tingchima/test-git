@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("again")
 
 	fmt.Println("again")
+
+	fmt.Println("again")
 }
